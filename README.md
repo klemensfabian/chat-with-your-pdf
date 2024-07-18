@@ -43,7 +43,7 @@ This application allows users to chat with their PDF documents using AI. It uses
    ```
    #### AI Core
    The AI Core information can be found in the BTP Cockpit under Service Keys for your AI Core instance.
-   Note: You need an AI Core Extended plan to access generative AI models
+   Note: You need an AI Core Extended plan to access generative AI models.
    Alternative for .env: You can copy your secret key to `~/.aicore/config.json` or use `aicore configure` to set the config file, see https://pypi.org/project/ai-core-sdk/.
    #### HANA Vector DB
    This is optional. If you do not have access to a HANA DB you can use a local vector store. Here we use [FAISS](https://github.com/facebookresearch/faiss).

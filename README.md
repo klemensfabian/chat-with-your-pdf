@@ -11,6 +11,7 @@ This application allows users to chat with their PDF documents using AI. It uses
 
 - SAP AI Core service instance (with Extended service plan) and service key
 - Python (with pip)
+- Git (optionally)
 
 ## Setup
 
@@ -18,6 +19,7 @@ This application allows users to chat with their PDF documents using AI. It uses
    ```
    git clone https://github.com/klemensfabian/chat-with-your-pdf.git
    ```
+   Optionally: Download as zip file
 
 2. Create a virtual environment and activate it:
    ```

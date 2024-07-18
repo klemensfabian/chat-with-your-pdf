@@ -12,13 +12,13 @@ This application allows users to chat with their PDF documents using AI. It uses
 1. Clone the repository:
    ```
    git clone https://github.com/klemensfabian/chat-with-your-pdf.git
-   cd pdf-chat-app
    ```
 
 2. Create a virtual environment and activate it:
    ```
+   cd pdf-chat-app
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   .\venv\Scripts\activate # On Windows
    ```
 
 3. Install the required packages:

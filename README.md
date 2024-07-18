@@ -11,7 +11,7 @@ This application allows users to chat with their PDF documents using AI. It uses
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<username>/pdf-chat-app.git
+   git clone https://github.com/klemensfabian/chat-with-your-pdf.git
    cd pdf-chat-app
    ```
 

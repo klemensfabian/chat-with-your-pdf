@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+PyPDF2
+hdbcli
+faiss-cpu
+generative-ai-hub-sdk[all]

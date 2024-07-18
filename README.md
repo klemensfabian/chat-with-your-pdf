@@ -7,6 +7,11 @@ This application allows users to chat with their PDF documents using AI. It uses
 - PDF upload and processing
 - AI-powered chat interface for asking questions about the PDF content
 
+## Prerequisites
+
+- SAP AI Core service instance (with Extended service plan) and service key
+- Python (with pip)
+
 ## Setup
 
 1. Clone the repository:

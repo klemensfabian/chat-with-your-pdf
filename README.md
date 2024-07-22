@@ -34,7 +34,7 @@ This application allows users to chat with their PDF documents using AI. It uses
    ```
 
 4. Set up your environment variables:
-   Create a `.env` file in the project root and add the following informations:
+   Fill the `.env` file in the project root with the following informations:
    ```
    # AI Core
    AICORE_BASE_URL=your-aicore-baseurl + "/v2"

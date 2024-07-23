@@ -4,7 +4,7 @@ from ui import sidebar, chat_interface
 from ChatWithYourData import process_pdf, get_conversation_chain
 
 
-st. set_page_config(layout="wide")
+st. set_page_config(layout="centered")
 
 def initialize_session_state():
     """
